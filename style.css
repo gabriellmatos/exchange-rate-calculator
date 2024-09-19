@@ -31,8 +31,9 @@ p {
 	background: var(--primary-color);
 	cursor: pointer;
 	border-radius: 5px;
-	font-size: 12px;
-	padding: 5px 12px;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 20px 20px;
 }
 
 .money-img {
@@ -75,7 +76,7 @@ p {
 
 .rate {
 	color: var(--primary-color);
-	font-size: 14px;
+	font-size: 20px;
 	padding: 0 10px;
 }
 
